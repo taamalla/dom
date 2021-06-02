@@ -1,0 +1,32 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+margin-left: 10%;
+    align-items: center;
+    width: 80%;
+    height: 800px;
+}
+.cart{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+.image{
+    height: 200px;
+    width: 200px;
+}
+
+.top{
+    text-align: center;
+  
+}
+.fa {
+    font-size: 200px;
+    cursor: pointer;
+    user-select: none;
+  }
+  
+  .fa:hover {
+    color: darkblue;
+  }
